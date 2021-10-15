@@ -1,0 +1,224 @@
+body {
+    background-image: url('./header.jpg');
+    background-size: 1300px;
+    background-repeat: no-repeat;
+   
+  }
+
+  h2, h3 {
+      color: white;
+  }
+  
+
+  .linksalign {
+       margin-left: 60%;
+       margin-right: 0%;
+       padding-top: 0%;
+       
+    }
+     
+   .linkscolor { 
+    color: #ffffff; 
+    text-decoration: none; 
+    font-size: 30px;} 
+ 
+    
+    h2 {
+        padding: 340px 0 0 0;
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif, Times, 'Times New Roman', serif;
+    }
+
+    h3 {
+        color: #000000;
+        font-size: 30px;
+        font-family:  'Lucida Grande', Arial, Helvetica, sans-serif;
+        text-align: center;
+        padding: 250px 0 0 0;
+    }
+    h4 {
+        text-align: center;
+        font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+        font-size: 35px;
+    }
+
+    .colorverde {
+        color: rgb(5, 185, 5);
+    }
+
+    .contenedordeiconos {
+      
+      text-align: center;
+      width: 1000px;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      align-items:center;
+      
+    }
+
+    .icono1{
+      width: 300px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .icono2 {
+      width: 300px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .icono3{
+      margin-right: auto;
+      margin-left: auto;
+      width: 300px;
+    }
+
+     .cards {
+        text-align: center;
+        width: 1000px;
+        display: flex; 
+        margin-left: auto;
+        margin-right: auto; 
+  align-items: center;
+        
+     }
+
+    .card1 {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        width: 300px;
+        transition: 0.3s;
+        border-radius: 5px; 
+        margin-right: auto;
+        margin-left: auto;
+      }
+      .card2 {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        width: 300px;
+        transition: 0.3s;
+        border-radius: 5px; 
+        margin-right: auto;
+        margin-left: auto;
+        
+      }
+      .card3 {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        width: 300px;
+        transition: 0.3s;
+        border-radius: 5px; 
+        margin-right: auto;
+        margin-left: auto;
+        
+      }
+
+      .button {
+        background-color: #f59518; 
+        width: 270px;
+        border: none;
+        color: white;
+        padding: 10px 42px;
+        font-weight: bolder;
+        text-align: center;
+        text-decoration: none;
+        
+        display: inline-block;
+        font-size: 10px;
+      }
+     
+        
+      .buttonverde{
+          background-color:green;
+          border: none;
+          color: white;
+          width: 150px;
+          height: 40px;
+          padding: 10px 42px;
+          text-align: center;
+          text-decoration: none;
+          font-size: 10px;
+          font-weight: bolder;
+          float: right;
+          margin-right: 11% ;
+          margin-top: 5%;
+          margin-bottom: 5%;
+          
+      }
+
+      .iconitos {
+        width: 200px;
+        display:inline-flex;
+        margin-left: auto;
+        margin-right: auto; 
+        padding-left: 40px;
+        padding-right: 40px;
+        align-items: center;
+      }
+
+      .iconi1 {
+        margin-right: auto;
+      margin-left: auto;
+      width: 200px;
+      }
+      .iconi2 {
+        margin-right: auto;
+      margin-left: auto;
+      width: 200px;
+      }
+      .iconi3 {
+        margin-right: auto;
+      margin-left: auto;
+      width: 200px;
+      }
+
+      .backgroundfooter {
+        background-image: url(./encuentra.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgb(65, 65, 65);
+        width: 100%;
+        height: 500px;
+        margin-top: 10%;
+       margin-bottom: 0px;
+      }
+
+      .LlenaElFormulario {
+        color: #ffffff;
+        padding: 0 0 0 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 25px;
+      }
+      .Encuentra {
+        color: #ffffff;
+        padding: 150px 0 0 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 40px;
+      }
+
+      .button3 {
+        background-color: #f59518; 
+        width: 100px;
+        border: none;
+        color: white;
+        margin: 10px 0 42px 50px;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bolder;
+        display: inline-block;
+        font-size: 10px;
+      }
+
+      .footerlinks {
+        background-color: rgb(65, 65, 65);
+        margin: 0%;
+      }
+      .linksalign2 {
+        padding: 20 20 20 20;
+        margin-top: 0 0 0 0;
+      }
+
+      #izquierda {
+        text-align: right;
+        font-weight: bolder;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+      }
